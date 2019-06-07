@@ -1,4 +1,4 @@
 username=tester@hotmail.com
 password=123456
 url=www.yahoo.es
-Slack=TEH9TK21H/BHL2K9PAB/cON2gZNxFLez8uQHGZEuNwJi
+Slack_Token=TEH9TK21H/BHL2K9PAB/cON2gZNxFLez8uQHGZEuNwJi
